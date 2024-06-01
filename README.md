@@ -7,6 +7,6 @@ star this if you use it!
 # TODO
 add better protection 
 use an obfuscator, preferably bitguard.
-use a better perm spoofing method
-put in a driver for temp spoofing
-rename the current name to your services name
+use a better perm spoofing method.
+put in a driver for temp spoofing.
+rename the current name to your services name.
