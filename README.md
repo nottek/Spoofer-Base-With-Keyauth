@@ -5,7 +5,7 @@ This took me about a day to make, contact me on discord if you want a better, pa
 star this if you use it!
 
 # TODO
-add better protection 
+add better protection.
 use an obfuscator, preferably bitguard.
 use a better perm spoofing method.
 put in a driver for temp spoofing.
