@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="debug protection shits\" />
+    <Folder Include="protection\" />
   </ItemGroup>
 
   <ItemGroup>
